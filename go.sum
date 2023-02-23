@@ -2,3 +2,5 @@ github.com/gustonecrush/go-modules v1.0.0 h1:Q7u2x53G6POcPmSNeG4JZodeBbXjBnh/byx
 github.com/gustonecrush/go-modules v1.0.0/go.mod h1:OHNhwRD2gtMjiRGZzMkQ5Pu8b8kYRSs8aBXFtcYjK0w=
 github.com/gustonecrush/go-modules v1.5.0 h1:eYf8Td7nqbatFiUQ1l5A0f6/ANi58fVMPss8fiyFnGc=
 github.com/gustonecrush/go-modules v1.5.0/go.mod h1:OHNhwRD2gtMjiRGZzMkQ5Pu8b8kYRSs8aBXFtcYjK0w=
+github.com/gustonecrush/go-modules/v2 v2.0.0 h1:x8Hd0jvyfxsn+k3cQ0u8V54MBtZmlINIs/VE8ySo//M=
+github.com/gustonecrush/go-modules/v2 v2.0.0/go.mod h1:aX3pVu4YkpE7EFZHjrb6S92SPFuv3IoIrUsiMXxLEqc=
